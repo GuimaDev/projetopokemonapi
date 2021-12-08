@@ -1,9 +1,9 @@
 # projetopokemonapi
 Projeto Desafio Dev Junior Python
  
-# Bem vindo!
+# Eai tudo certo?
  
-## Me chamo Felipe Guimarães
+## Me Felipe Guimarães
  
 Aspirante a Desenvolvedor Python em busca de oportunidades para crescer na àrea de Programação.
  
@@ -18,13 +18,14 @@ url_pokemon. através de for varrendo dentro do array 'Results' trazendo informa
    
   - FUNÇÃO def__init__(): objetos criados para serem populados com dados da API
    
- ## - FUNÇÃO def __str__(self): retorno dos objetos em string
+ ## - FUNÇÃO def __str__(self):
+      retorno dos objetos em string
    
 ## -  FUNÇÃO: def get_pokemon(url: str) -> object:
        retorna url dentro de 'Results' (lista da primeira conexão com https://pokeapi.co/api/v2/) onde ficam informações dos Pokémons.
    
- ## -  FUNÇÃO 
-   def pegar_pokemon(): Conexão com def "https://pokeapi.co/api/v2/", filtra os dados 'Results', onde no primeiro laço FOR filtra as informações de cada pokemon agrupando em uma lista vazia ' PokemonList'após varrer todo o array returna a lista dos dados agrupados.
+ ## -  FUNÇÃO def pegar_pokemon(): 
+       Conexão com def "https://pokeapi.co/api/v2/", filtra os dados 'Results', onde no primeiro laço FOR filtra as informações de cada pokemon agrupando em uma  lista vazia ' PokemonList'após varrer todo o array returna a lista dos dados agrupados.
    
 ## - " for pokedex in pokemonObjeto:
   print(pokedex)" listamos todas as posições da lista com um ultimo laço FOR imprimindo no terminal os dados dos pokemons atrelados aos objetos:
