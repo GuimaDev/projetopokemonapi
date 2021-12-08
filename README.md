@@ -3,7 +3,7 @@ Projeto Desafio Dev Junior Python
  
 ## Eai tudo certo?
  
-## Felipe Guimarães
+## Meu nome é Felipe!
  
 Aspirante a Desenvolvedor Python em busca de oportunidades para crescer na àrea de Programação.
  
