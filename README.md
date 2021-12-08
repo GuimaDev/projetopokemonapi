@@ -9,14 +9,14 @@ Aspirante a Desenvolvedor Python em busca de oportunidades para crescer na àrea
  
  
 Nesse projeto busquei aplicar meus conhecimetos sobre a linguagem para acessar a api "https://pokeapi.co/api/v2/" para obter os dados 
-( NOME; URL,tipo, habilidade e peso) dos 20 primeiros pokemons, através da classe 'PokemonClass' armazenada nos objetos interados nas funções pegar_pokemon e 
-url_pokemon. através de for varrendo dentro do array 'Results' trazendo informações via terminal. Sei que é o inicio dessa jornada! CATCH UP! 
+( NAME, URL, TYPE(lista), ABILITIES(lista), WEIGHT) dos 20 primeiros pokemons listados, através da classe 'PokemonClass' armazenada nos objetos interados nas funções pegar_pokemon e url_pokemon. Utilizando  FOR varrendo dentro do array 'Results' trazendo informações via terminal. Sei que é o inicio dessa jornada! CATCH UP! 
 
 
 ## PokemonClass:
   - Classe criada com duas funções ' def __init__(self, url, nome, habilidades, tipo, peso):' e def __str__(self):
    
-  - FUNÇÃO def__init__(): objetos criados para serem populados com dados da API
+ ## - FUNÇÃO def__init__():
+      objetos criados para serem populados com dados da API
    
  ## - FUNÇÃO def __str__(self):
       retorno dos objetos em string
