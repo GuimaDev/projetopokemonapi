@@ -5,7 +5,7 @@ Projeto Desafio Dev Junior Python
  
 ## Meu nome é Felipe!
  
-Aspirante a Desenvolvedor Python em busca de oportunidades para crescer na àrea de Programação.
+Aspirante a Desenvolvedor Python em busca de oportunidades para crescer na área de Programação.
  
  
 Nesse projeto busquei aplicar meus conhecimetos sobre a linguagem para acessar a api "https://pokeapi.co/api/v2/" para obter os dados 
