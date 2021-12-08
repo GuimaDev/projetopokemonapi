@@ -30,12 +30,13 @@ url_pokemon. através de for varrendo dentro do array 'Results' trazendo informa
 ## - " for pokedex in pokemonObjeto:
   print(pokedex)" listamos todas as posições da lista com um ultimo laço FOR imprimindo no terminal os dados dos pokemons atrelados aos objetos:
    
-   ex: Nome: bulbasaur - url: https://pokeapi.co/api/v2/pokemon/1/ - tipo:['grass', 'poison'] - Habilidades: ['overgrow', 'chlorophyll'] - Peso: 69
-       Nome: ivysaur - url: https://pokeapi.co/api/v2/pokemon/2/ - tipo:['grass', 'poison'] - Habilidades: ['overgrow', 'chlorophyll'] - Peso: 130
-       Nome: venusaur - url: https://pokeapi.co/api/v2/pokemon/3/ - tipo:['grass', 'poison'] - Habilidades: ['overgrow', 'chlorophyll'] - Peso: 1000
+ ##  - Exemplo: 
+   ' Nome: bulbasaur - url: https://pokeapi.co/api/v2/pokemon/1/ - tipo:['grass', 'poison'] - Habilidades: ['overgrow', 'chlorophyll'] - Peso: 69'
    
-  Mais informações: contato.felipeguimaraes@gmail.com
+    
+   
+  Mais informações: contato.felipeguimaraes@gmail.com/ https://github.com/GuimaDev/
 
-- Obrigado por Visitar!
+- Obrigado por Visitar meu Repositório!
  
 
