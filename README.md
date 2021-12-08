@@ -1,7 +1,7 @@
-# projetopokemonapi
+# projeto Pokémon API
 Projeto Desafio Dev Junior Python
  
-# Eai tudo certo?
+## Eai tudo certo?
  
 ## Felipe Guimarães
  
