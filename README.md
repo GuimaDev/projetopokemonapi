@@ -20,13 +20,10 @@ url_pokemon. através de for varrendo dentro do array 'Results' trazendo informa
    
    FUNÇÃO def __str__(self): retorno dos objetos em string
    
-   FUNÇÃO: def get_pokemon(url: str) -> object:  retorna url dentro de 'Results' (lista da primeira conexão com https://pokeapi.co/api/v2/) onde ficam informações 
-   dos Pokémons.
+   FUNÇÃO: def get_pokemon(url: str) -> object:  retorna url dentro de 'Results' (lista da primeira conexão com https://pokeapi.co/api/v2/) onde ficam informações dos Pokémons.
    
    FUNÇÃO 
-   def pegar_pokemon(): Conexão com def "https://pokeapi.co/api/v2/", filtra os dados 'Results', onde no primeiro laço FOR filtra as informações de cada pokemon
-   
-   agrupando em uma lista vazia ' PokemonList'após varrer todo o array returna a lista dos dados agrupados.
+   def pegar_pokemon(): Conexão com def "https://pokeapi.co/api/v2/", filtra os dados 'Results', onde no primeiro laço FOR filtra as informações de cada pokemon agrupando em uma lista vazia ' PokemonList'após varrer todo o array returna a lista dos dados agrupados.
    
    por ultimo listamos todas as posições da lista com um ultimo laço FOR imprimindo no terminal os dados dos pokemons atrelados aos objetos:
    
